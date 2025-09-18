@@ -1,1 +1,0 @@
-Hello, this is JR Alejandrino learning Git!
